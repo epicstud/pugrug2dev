@@ -23,7 +23,13 @@ const levels = {
   4500: "Lord",
   10500: "OverLord",
   20500: "King",
-  30500: "Anunnaki"
+  30500: "Anunnaki",
+  40500: "Ascension Part 1",
+  50500: "Ascension Part 2",
+  60500: "Ascension Part 3",
+  70500: "ASCENSION",
+  30500: "Karate Pug",
+  30500: "Sensai Pug"
 }
 
 const startTime = Date.now();
