@@ -107,7 +107,7 @@ function loopDraw() {
     currentOffset = 0;
   }
 
-  const newTime = Math.floor((Date.now() - startTime) / 10000);
+  const newTime = Math.floor((Date.now() - startTime) / 999);
 
   secondsCount.innerText = newTime;
 
